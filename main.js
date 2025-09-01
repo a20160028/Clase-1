@@ -1,0 +1,15 @@
+let miNombre = "Santiago";
+let miEdad = 14;
+document.writeln("Mi nombre es:  " +miNombre+"  y tengo"  +miEdad+  "años");
+let n1 = 5;
+let n2 = 6;
+let suma = n1 + n2;
+let resta = n1 - n2;
+let multi = n1 * n2;
+let divi = n1/n2 ;
+document.writeln("El primer número es: "+n1+"<br>");
+document.writeln("El segundo número es:"+n2+ "<br>");
+document.writeln("La suma resultante es:"+suma+ " <br>");
+document.writeln("La resta resultante es:" +resta+ "<br>");
+document.writeln("El producto resultante es:" +multi+ "<br>");
+document.writeln("La división resultante es:" +divi+"<br>" );
